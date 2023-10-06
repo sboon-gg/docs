@@ -1,0 +1,6 @@
+- add in-game name and hash
+- verify identity is yours
+	- play on a server with tag `SBxxN` where `xx` are two random characters
+- assign role if found on PRSpy
+- conditional assignment (if has role A -> assign B)
+- remove role after disappearing from PRSpy

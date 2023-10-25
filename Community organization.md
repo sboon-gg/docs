@@ -1,5 +1,5 @@
 ---
-status: draft
+status: approved
 ---
 
 ![[org.excalidraw|800]]
